@@ -2,11 +2,8 @@
 
 ## Overview
 
-This repository provides reproducible code for all novel and existing conformal quantile HPO methods implemented in *"Enhancing Adaptiveness and Sampling Performance in Conformal Hyperparameter Optimization"*.
-
-This version removes or obfuscates all identifiers, author(s) information, commit history, documentation, CI/CD that could lead to identifiable information.
-
-If the submission is successful, the paper will be updated to point to a repository restoring all stripped or obfuscated information.
+This repository provides reproducible code for all novel and existing conformal quantile HPO methods implemented in *"Toward More Robust Quantile Conformal Hyperparameter
+Optimization"*.
 
 ## General Usage
 
